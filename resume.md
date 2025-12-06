@@ -6,6 +6,6 @@
     ## 教育背景
     <!-- TODO: 广州应用科技学院 -->
 
-    ## 项目经历
+    ## 项目简介
     <!-- TODO: https://github.com/zrl00/C1-202210007663-ZhangRuilin.git -->
     
