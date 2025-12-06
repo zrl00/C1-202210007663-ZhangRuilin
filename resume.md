@@ -6,12 +6,7 @@
     ## 教育背景
     <!-- TODO: 广州应用科技学院 -->
 
-<<<<<<< HEAD
     ## 项目经历
-    <!-- TODO: https://github.com/zrl00/C1-202210007663-ZhangRuilin.git -->
-=======
-    ## 项目经历
-    <!-- TODO:个人简历版本控制项目
-    使用git管理建立版本，实现分支开发、冲突解决与发布流程 -->
->>>>>>> feature/add-projects
-    
+<!-- TODO: 个人简历版本控制项目  
+仓库地址：https://gitee.com/zr100/C1-202210007663-ZhangRuilin.git  
+使用 Git 管理简历版本，实现分支开发、冲突解决与版本发布流程。 -->
